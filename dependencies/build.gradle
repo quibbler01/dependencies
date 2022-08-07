@@ -43,4 +43,6 @@ dependencies {
     //https://github.com/square/okhttp
     implementation 'com.squareup.okhttp3:okhttp:4.9.3'
 
+    //https://github.com/greenrobot/EventBus
+    implementation 'org.greenrobot:eventbus:3.3.1'
 }
